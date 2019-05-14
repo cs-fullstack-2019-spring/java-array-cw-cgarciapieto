@@ -6,9 +6,9 @@ Ask the user to enter for names in an array. Print the array
 #### Exercise 2:
 Create the array [5,3,7, 4]. Pass the array to a new function to do the following:
 1) Print the array.
-1) Print the 3rd index of the numberList.
-2) Delete the second index.
-3) Print the 3rd index again.
+1) Print the 3rd element of the numberList.
+2) Delete the second element.
+3) Print the 3rd index element.
 
 #### Exercise 3:
 Create the array ["Bob", "John", "Kenn", "Kevin"].
